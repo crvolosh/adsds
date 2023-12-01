@@ -1141,7 +1141,7 @@ button {
 }
 @media (min-width: 384px) and (max-width: 430px) {
   .dot1 {
-    left: 8%;
+    left: 3%;
     transform: translateY(-12px);
   }
 }
@@ -1266,7 +1266,7 @@ button {
 }
 @media (min-width: 384px) and (max-width: 430px) {
   .dot2 {
-    left: -20%;
+    left: -17%;
     transform: translateY(-13px);
   }
 }
